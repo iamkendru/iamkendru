@@ -15,8 +15,9 @@ I am currently working on building a dual-axis motorized mount system, that I wi
 
 ### 📫 How to reach me
 
-Well there are multiple ways, you are currently on my github so there's that. But here's the fastest way, or link to me. <br>
-[kendru](https://kyte.bio/kendru) <- Here's me.
+Well there are multiple ways, you are currently on my github so there's that.
+But here's my [facebook](https://facebook.com/kendrapokhrel), [instagram](https://instagram.com/kendrapokhrel).
+For the actual people, here's my [mastodon](https://techhub.social/@kendru).
 
 Also, since I write, let me have my blogging platform linked [here](https://paper.wf/kendru)
 Here, is my photography account on [instagram](https://instagram.com/px.kendru) and [pixelfed](https://pixelfed.social/stellarsync).
