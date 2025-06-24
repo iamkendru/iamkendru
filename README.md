@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Kendra Pokhrel**.
+I am **Kendra Pokhrel**. I am an undergrad, for now. Currently playing along with Bachelors in Engineering: Electronics, Communication and Information Engineering, at [IOE, Purwanchal Campus](https://www.ioepc.edu.np/)
 
 <!--
 **iamkendru/iamkendru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
