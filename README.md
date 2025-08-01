@@ -26,6 +26,6 @@ If that's not enough, here's my [home](https://maps.app.goo.gl/rpoYLVcP5Pwx3gMy5
 
 - 🔭 I’m currently working on my final year project that includes the computerization of a dual axis free mount system which can be applied to many fields and is cost effective.
 - 🌱 I’m currently learning about web servers and ngrok, nginx and funneling.
-- 📫 How to reach me: You can contact me anywhere. Here's my list of available contacts: [kendra](https://kyte.bio/kendru)
+- 📫 How to reach me: You can contact me anywhere. Here's my list of available contacts: [kendra](https://kyte.bio/kendru). Further more here is me [Kendra Pokhrel](https://druix.panga-fort.ts.net) 
 - 😄 Pronouns: He/Him/His
 
