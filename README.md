@@ -21,7 +21,6 @@ For the actual people, here's my [mastodon](https://techhub.social/@kendru).
 
 Also, since I write, let me have my blogging platform linked [here](https://paper.wf/kendru)
 Here, is my photography account on [instagram](https://instagram.com/px.kendru) and [pixelfed](https://pixelfed.social/stellarsync).
-If that's not enough, here's my [home](https://maps.app.goo.gl/rpoYLVcP5Pwx3gMy5). pls don't barge into my home, i'll look at you like a weirdo and go back to what i was doing.
 
 
 - 🔭 I’m currently working on my final year project that includes the computerization of a dual axis free mount system which can be applied to many fields and is cost effective.
