@@ -28,3 +28,4 @@ Here, is my photography account on [instagram](https://instagram.com/px.kendru) 
 - 📫 How to reach me: You can contact me anywhere. Here's my list of available contacts: [kendra](https://kyte.bio/kendru). Further more here is me [Kendra Pokhrel](https://druix.panga-fort.ts.net) 
 - 😄 Pronouns: He/Him/His
 
+<a href="https://app.daily.dev/iamkendru"><img src="https://api.daily.dev/devcards/v2/U0OWw3d7ORKy0MJNcywqL.png?type=wide&r=lgl" width="652" alt="kendru's Dev Card"/></a>
